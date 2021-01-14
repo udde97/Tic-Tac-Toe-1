@@ -14,6 +14,9 @@
 		8200C4F725ADE56300F27A52 /* Tic_Tac_Toe_1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8200C4F525ADE56300F27A52 /* Tic_Tac_Toe_1.xcdatamodeld */; };
 		8200C4F925ADE56B00F27A52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8200C4F825ADE56B00F27A52 /* Assets.xcassets */; };
 		8200C4FC25ADE56B00F27A52 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8200C4FA25ADE56B00F27A52 /* LaunchScreen.storyboard */; };
+		8200C50525ADE5D000F27A52 /* O.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8200C50425ADE5CF00F27A52 /* O.jpg */; };
+		8200C50825ADE5D400F27A52 /* X.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8200C50725ADE5D400F27A52 /* X.jpg */; };
+		8200C50B25ADE5DB00F27A52 /* Board.png in Resources */ = {isa = PBXBuildFile; fileRef = 8200C50A25ADE5DB00F27A52 /* Board.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		8200C4F825ADE56B00F27A52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8200C4FB25ADE56B00F27A52 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8200C4FD25ADE56B00F27A52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8200C50425ADE5CF00F27A52 /* O.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = O.jpg; sourceTree = "<group>"; };
+		8200C50725ADE5D400F27A52 /* X.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = X.jpg; sourceTree = "<group>"; };
+		8200C50A25ADE5DB00F27A52 /* Board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Board.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +67,10 @@
 				8200C4EC25ADE56300F27A52 /* AppDelegate.swift */,
 				8200C4EE25ADE56300F27A52 /* SceneDelegate.swift */,
 				8200C4F025ADE56300F27A52 /* ViewController.swift */,
+				8200C50425ADE5CF00F27A52 /* O.jpg */,
 				8200C4F225ADE56300F27A52 /* Main.storyboard */,
+				8200C50A25ADE5DB00F27A52 /* Board.png */,
+				8200C50725ADE5D400F27A52 /* X.jpg */,
 				8200C4F825ADE56B00F27A52 /* Assets.xcassets */,
 				8200C4FA25ADE56B00F27A52 /* LaunchScreen.storyboard */,
 				8200C4FD25ADE56B00F27A52 /* Info.plist */,
@@ -128,7 +137,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				8200C4FC25ADE56B00F27A52 /* LaunchScreen.storyboard in Resources */,
+				8200C50825ADE5D400F27A52 /* X.jpg in Resources */,
 				8200C4F925ADE56B00F27A52 /* Assets.xcassets in Resources */,
+				8200C50B25ADE5DB00F27A52 /* Board.png in Resources */,
+				8200C50525ADE5D000F27A52 /* O.jpg in Resources */,
 				8200C4F425ADE56300F27A52 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
